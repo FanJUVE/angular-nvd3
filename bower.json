@@ -29,7 +29,7 @@
     "dependencies": {
         "angular": "^1.x",
         "d3": "~3.3.13",
-        "nvd3": "https://github.com/FanJUVE/nvd3.git#5df6bf1efac2b86f38eca979d3d8208d87b95398"
+        "nvd3": "https://github.com/FanJUVE/nvd3.git#47803a30c174bab26a082a0373254a0d1b0dbc5d"
     },
     "ignore": [
         "**/.*",
